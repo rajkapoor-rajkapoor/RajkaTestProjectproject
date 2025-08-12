@@ -8,6 +8,11 @@
         <value name="value">123</value>
         <value name="isSecure">false</value>
       </record>
+      <record javaclass="com.wm.data.ISMemDataImpl">
+        <value name="key">TestPV_withVault</value>
+        <value name="value">gvhandle.TestPV_withVault</value>
+        <value name="isSecure">true</value>
+      </record>
     </array>
   </record>
 </IDataXMLCoder>
